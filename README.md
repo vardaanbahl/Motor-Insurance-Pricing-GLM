@@ -130,3 +130,14 @@ Motor-Insurance-Pricing-GLM
 - Compare multiple machine learning models for claim frequency prediction.
 - Build an interactive dashboard to visualize claim risk across customer segments.
 - Deploy the model as a web application for real-time prediction.
+
+## 🚀 How to Run
+
+1. Clone this repository.
+2. Download the French Motor Third-Party Liability Claims dataset.
+3. Place the dataset files in your working directory.
+4. Open `motor_insurance_pricing_glm.R` in RStudio.
+5. Install the required libraries:
+   - ggplot2
+   - dplyr
+6. Run the script to reproduce the data preprocessing, model fitting, evaluation, and visualizations.
