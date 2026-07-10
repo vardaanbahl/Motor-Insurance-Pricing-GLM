@@ -85,13 +85,9 @@ The reduced model achieved comparable predictive performance while using fewer e
 
 
 ## 📷 Visualizations
-This repository includes visualizations illustrating:
+### Average Claim Frequency by BonusMalus Group
 
-- Distribution of Vehicle Age
-- Distribution of Bonus-Malus Scores
-- Average Claim Frequency by Driver Age
-- Average Claim Frequency by Bonus-Malus Group
-- Residuals vs Fitted Plot for model diagnostics
+![Average Claim Frequency by BonusMalus Group](images/Average%20claim%20frequency%20by%20BonusMalus.png)
 
 
 ## 📁 Repository Structure
