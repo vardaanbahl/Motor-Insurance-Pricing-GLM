@@ -1,25 +1,44 @@
 # Motor Insurance Claim Frequency Prediction using Poisson GLM
 
-## Project Overview
+## 📌 Project Overview
 
-## Business Problem
 
-## Dataset
 
-## Tools & Technologies
+## 🎯 Business Problem
 
-## Methodology
 
-## Exploratory Data Analysis
 
-## Model Development
+## 📂 Dataset
 
-## Model Evaluation
 
-## Key Findings
 
-## Visualizations
+## 🛠️ Tools & Technologies
 
-## Repository Structure
 
-## Future Scope
+
+## 📈 Methodology
+
+
+
+## 🤖 Model Development
+
+
+
+## 📊 Model Evaluation
+
+
+
+## 🔍 Key Findings
+
+
+
+## 📷 Visualizations
+
+
+
+## 📁 Repository Structure
+
+
+
+## 🚀 Future Improvements
+
