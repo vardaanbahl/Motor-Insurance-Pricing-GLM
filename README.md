@@ -84,7 +84,7 @@ The reduced model achieved comparable predictive performance while using fewer e
 - The reduced Poisson GLM provided an efficient balance between model simplicity and predictive accuracy.
 
 
-## 📷 Visualizations
+
 ## 📷 Visualizations
 
 ### Distribution of Vehicle Age
