@@ -13,7 +13,31 @@ Motor insurance companies need accurate estimates of claim frequency to price po
 
 ## 📂 Dataset
 
+This project uses the **French Motor Third-Party Liability Claims** dataset to model motor insurance claim frequency.
 
+**Dataset Files**
+- `freMTPL2freq.csv`
+- `freMTPL2sev.csv`
+
+**Source**
+- OpenML – French Motor Third-Party Liability Claims Dataset
+- Downloaded via Kaggle
+
+### Variables
+
+**Target Variable**
+- ClaimNb
+
+**Predictor Variables**
+- DrivAge
+- VehAge
+- BonusMalus
+- VehPower
+- VehGas
+- VehBrand
+- Area
+- Region
+- Density
 
 ## 🛠️ Tools & Technologies
 - **Programming Language:** R
