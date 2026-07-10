@@ -19,9 +19,10 @@ This project uses the **French Motor Third-Party Liability Claims** dataset to m
 - `freMTPL2freq.csv`
 - `freMTPL2sev.csv`
 
-**Source**
-- OpenML – French Motor Third-Party Liability Claims Dataset
-- Downloaded via Kaggle
+### Source
+
+- [OpenML – French Motor Third-Party Liability Claims Dataset](https://www.openml.org/search?type=data&sort=runs&id=41214)
+- [Kaggle Dataset Mirror](https://www.kaggle.com/datasets/floser/french-motor-claims-datasets-fremtpl2freq)
 
 ### Variables
 
